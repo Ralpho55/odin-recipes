@@ -1,11 +1,11 @@
-# 🍽️ Recipe Webpage Project
+# Recipe Webpage Project
 
 This project is a beginner-friendly static website showcasing a collection of recipes, including Handkerchief Lasagna, Greek Steak Marinade, and Chicken Shawarma. Each recipe is presented on its own HTML page with a clear structure including descriptions, ingredients, and step-by-step preparation instructions.
 
 The website is built using semantic HTML and is designed for clarity, simplicity, and readability. Navigation between pages is made easy with internal links.
 
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 By completing this project, I will have demonstrated the ability to:
 
